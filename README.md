@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on Android app development using Java
 - 🤔 I’m looking for help with AngularJS
 - 💬 Ask me anything that is related to Java
-- 📫 How to reach me: [Instagram](https://www.instagram.com/thz_iz_vishnuoff/ "Vishnu Profile")
+- 📫 How to reach me: [Instagram](https://www.instagram.com/thz_iz_vishnuoff/ "Vishnu Profile"), [Twitter](https://twitter.com/Vishnuvasan8 "Vishnu Profile")
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am often cornered and ignored for I am good at an outdated language - JAVA 😄😄
 
