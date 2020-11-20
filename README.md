@@ -1,6 +1,6 @@
 # Hi there, here is that I am working on!
 
-Here are some ideas to get you started:
+ Here is a way in which you can get to know about me:
 
 - 👯 I live in Chennai
 - 🔭 I’m currently pursuing my UG at **Sri Venkateswara College of Engineering** in _B.tech Artificial Intelligence and Data Science_ 
