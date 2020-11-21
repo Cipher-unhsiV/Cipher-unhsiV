@@ -3,7 +3,7 @@
 ## PROJECT NAME: Stud Eeze
 
 ## LOGO:
-![stud eeze](https://user-images.githubusercontent.com/64918181/99865607-02332e80-2bd1-11eb-97f6-de39e6dd7eb5.jpg)
+![stud eeze](https://user-images.githubusercontent.com/64918181/99875061-996ca600-2c12-11eb-95cf-bbf01fa4402f.jpg)
 
 ## PROJECT OBJECTIVE:
 The main motive of our project 'Stud Eeze' is to enhance our online education system with: 
