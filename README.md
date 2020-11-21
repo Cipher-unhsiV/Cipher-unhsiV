@@ -1,9 +1,11 @@
-# TEAM NAME: Stud Eeze
+# TEAM NAME: EMULATION NERDS
 
-## TEAM LOGO:
+## PROJECT NAME: Stud Eeze
+
+## LOGO:
 ![stud eeze](https://user-images.githubusercontent.com/64918181/99865607-02332e80-2bd1-11eb-97f6-de39e6dd7eb5.jpg)
 
-## TEAM OBJECTIVE:
+## PROJECT OBJECTIVE:
 The main motive of our project 'Stud Eeze' is to enhance our online education system with: 
 1. Enhanced communication,
 2. Improved organization,
@@ -36,3 +38,4 @@ The main motive of our project 'Stud Eeze' is to enhance our online education sy
  '''diff
  Flutter 'Dart', 'Firebase', 'Agora.io', 'HTML', 'CSS', 'Formspree', 'Markdown'
  '''
+<img height='32' width='32' src="http://simpleicons.org/?q=flutt"
