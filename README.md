@@ -24,15 +24,5 @@ The main motive of our project 'Stud Eeze' is to enhance our online education sy
 | Jayashree Rao | [Github](https://github.com/Jayashreerao15 "Jayashree profile") | [Linked](https://www.linkedin.com/in/jayashree-rao-7a4a461b8/ "Jayashree")
 
 ## TECHNOLOGIES USED:
-| TECH |
-| --- |
-| Flutter |
-| Dart | 
-| Firebase |
-| Agora.io |
-| HTML | 
-| CSS | 
-| Formspree | 
-| Markdown |
-
+```Flutter``` ```Dart``` ```Firebase``` ```Agora.io``` ```MarkDown``` ```HTML``` ```CSS``` ```Formspree```
  
