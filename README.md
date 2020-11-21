@@ -31,7 +31,9 @@ The main motive of our project 'Stud Eeze' is to enhance our online education sy
 
 ## TECHNOLOGIES USED:
 
+
 ```Flutter``` ```Dart``` ```Firebase``` ```Agora.io``` ```MarkDown``` ```HTML``` ```CSS``` ```Formspree```
+
  
 ## SCREEN-SHOTS :
 ![WhatsApp Image 2020-11-21 at 3 52 23 PM](https://user-images.githubusercontent.com/64918181/99875014-47c41b80-2c12-11eb-8b61-60af0b77ef5f.jpeg)
