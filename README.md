@@ -33,4 +33,4 @@ The main motive of our project 'Stud Eeze' is to enhance our online education sy
 | Formspree | 
 | Markdown |
 
-> Flutter, Dart, Firebase, Agora.io, HTML, CSS, Formspree, Markdown
+ 'Flutter', 'Dart', 'Firebase', 'Agora.io', 'HTML', 'CSS', 'Formspree', 'Markdown'
