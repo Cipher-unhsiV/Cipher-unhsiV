@@ -17,7 +17,7 @@ The main motive of our project 'Stud Eeze' is to enhance our online education sy
 
 ## PROJECT FEATURES:
 - ⚡ Seperate login portals for students and mentors
-- ⚡ No screen-shot restriction
+- ⚡ Screen-shot disability
 - ⚡ In-app video calling ability
 - ⚡ Secured reach of content
 
