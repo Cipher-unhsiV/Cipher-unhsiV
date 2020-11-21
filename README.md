@@ -37,5 +37,8 @@ The main motive of our project 'Stud Eeze' is to enhance our online education sy
 ![WhatsApp Image 2020-11-21 at 1 49 34 PM](https://user-images.githubusercontent.com/64918181/99874160-7e4a6800-2c0b-11eb-8d86-d1be6674471a.jpeg)
 ![WhatsApp Image 2020-11-21 at 1 49 35 PM](https://user-images.githubusercontent.com/64918181/99874164-81ddef00-2c0b-11eb-946d-f640fa7d5a59.jpeg)
 
+![WhatsApp Image 2020-11-21 at 1 49 33 PM - Copy](https://user-images.githubusercontent.com/64918181/99874800-7c36d800-2c10-11eb-8704-f892265bd63c.jpeg)
+
+
 
 
