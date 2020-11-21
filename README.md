@@ -33,10 +33,6 @@ The main motive of our project 'Stud Eeze' is to enhance our online education sy
 ```Flutter``` ```Dart``` ```Firebase``` ```Agora.io``` ```MarkDown``` ```HTML``` ```CSS``` ```Formspree```
  
 ## SCREEN-SHOTS :
-![WhatsApp Image 2020-11-21 at 1 49 33 PM](https://user-images.githubusercontent.com/64918181/99874155-78548700-2c0b-11eb-995c-6d74bbcb90d6.jpeg) 
-![WhatsApp Image 2020-11-21 at 1 49 34 PM](https://user-images.githubusercontent.com/64918181/99874160-7e4a6800-2c0b-11eb-8d86-d1be6674471a.jpeg)
-![WhatsApp Image 2020-11-21 at 1 49 35 PM](https://user-images.githubusercontent.com/64918181/99874164-81ddef00-2c0b-11eb-946d-f640fa7d5a59.jpeg)
-
 ![WhatsApp Image 2020-11-21 at 1 49 33 PM - Copy](https://user-images.githubusercontent.com/64918181/99874800-7c36d800-2c10-11eb-8704-f892265bd63c.jpeg)
 ![reduced2](https://user-images.githubusercontent.com/64918181/99874834-cb7d0880-2c10-11eb-95ba-7800339c210d.jpeg)
 ![reduced3](https://user-images.githubusercontent.com/64918181/99874835-ccae3580-2c10-11eb-90d3-b20fcfdfbb2a.jpeg)
