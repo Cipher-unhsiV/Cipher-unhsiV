@@ -6,14 +6,20 @@
 ![stud eeze](https://user-images.githubusercontent.com/64918181/99865607-02332e80-2bd1-11eb-97f6-de39e6dd7eb5.jpg)
 
 ## PROJECT OBJECTIVE:
-The main motive of our project 'Stud Eeze' is to enhance our online education system with: 
-1. Enhanced communication,
-2. Improved organization,
-3. Sharing notes with non-class mems is prohibited(no screen-shot feature),
-4. One-to-one doubt clarification sessions(agora video calling),
-5. Study materials(teacher can share docs), 
-6. Interactive quizzes, and
-7. Excellent privacy features(google sign-in).
+📫 The main motive of our project 'Stud Eeze' is to enhance our online education system with: 
+📫 Enhanced communication,
+📫 Improved organization,
+📫 Sharing notes with non-class mems is prohibited,
+📫 One-to-one doubt clarification sessions,
+📫 Study materials(teacher can share docs), 
+📫 Interactive quizzes, and
+📫 Excellent privacy features(google sign-in).
+
+## PROJECT FEATURES:
+⚡ Seperate login portals for students and mentors
+⚡ No screen-shot restriction
+⚡ In-app video calling ability
+⚡ Secured reach of content
 
 ## TEAMMATES:
 | Teammates | Github id | Linkedin id 
