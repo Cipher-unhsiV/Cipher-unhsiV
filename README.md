@@ -16,7 +16,7 @@
 
 - 💬 Ask me anything that is related to Java
 
-- 📫 How to reach me: [Instagram](https://www.instagram.com/thz_iz_vishnuoff/ "Vishnu Profile"), [Twitter](https://twitter.com/Vishnuvasan8 "Vishnu Profile")
+- 📫 How to reach me: [Instagram](https://www.instagram.com/thz_iz_vishnuoff/ "Vishnu Profile"), [Twitter](https://twitter.com/Vishnuvasan8 "Vishnu Profile"), [LinkedIn](https://www.linkedin.com/in/vishnuvasan-srinivasan-0b2012194/ "Vishnu Profile")
 
 - ⚡ Fun fact: I am often cornered and ignored for I am good at an outdated language - JAVA ????
 
