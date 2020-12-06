@@ -25,6 +25,5 @@
 
 
 ![ice_screenshot_20201120-215501](https://user-images.githubusercontent.com/64918181/99824037-2532f380-2b7b-11eb-8dd5-1b26e84d674a.png) 
-<h4 align="center">Modern Theme</h4> <h4 align="right">Modern Theme</h4><h4 align="left">Modern Theme</h4>
-
+<!-- <h4 align="center">Modern Theme</h4> -->
 
