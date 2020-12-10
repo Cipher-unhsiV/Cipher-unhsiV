@@ -6,7 +6,7 @@
 
 - 🔭 I live in Chennai
 
-- ⚡ I’m currently pursuing my UG at **Sri Venkateswara College of Engineering** --> _B.tech_ in _Artificial Intelligence and Data Science_ 
+- ⚡ I’m currently pursuing my UG at **Sri Venkateswara College of Engineering** --> _B.tech_ in _Artificial Intelligence and Data Science_ --> 1st year
 
 - 🌱 I’m currently learning the framework - _AngularJS_
 
