@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact: I am often cornered and ignored for I am good at an outdated language - JAVA ????
 
-- 👯 Get to know about my hackathon projects : [Stud Eeze](https://devfolio.co/submissions/stud-eeze "Hackathon Project"), [Tour Mysuru](https://devfolio.co/submissions/tour-mysuru)
+- 👯 Get to know about my hackathon projects : [Stud Eeze](https://devfolio.co/submissions/stud-eeze "Developed at HackSRM 3.0"), [Tour Mysuru](https://devfolio.co/submissions/tour-mysuru "Developed at DSC WOW")
 
 
 
