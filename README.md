@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on Android app development using Java
 
-- 🤔 I’m looking for help with AngularJS
+- 🤔 I’m looking for help with Front-end
 
 - 💬 Ask me anything that is related to Java
 
