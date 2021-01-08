@@ -3,6 +3,9 @@
 
 ## Here is a way in which you can get to know about me:
 
+<a href="https://www.linkedin.com/in/vishnuvasan-srinivasan-0b2012194/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
 
 - 🔭 I live in Chennai
 
