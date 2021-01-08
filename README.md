@@ -30,12 +30,10 @@
 - 🤔 I’m looking for help with Full stack
 
 - 💬 Ask me anything that is related to Java, C/C++, Mdown
-
-- 📫 How to reach me: [Instagram](https://www.instagram.com/thz_iz_vishnuoff/ "Vishnu Profile"), [Twitter](https://twitter.com/Vishnuvasan8 "Vishnu Profile"), [LinkedIn](https://www.linkedin.com/in/vishnuvasan-srinivasan-0b2012194/ "Vishnu Profile")
-
+ 
 - ⚡ Fun fact: I am often cornered and ignored for I am good at an outdated language - JAVA ????
 
-- 👯 Get to know about my hackathon projects : [Stud Eeze](https://devfolio.co/submissions/stud-eeze "Developed at HackSRM 3.0"), [Tour Mysuru](https://devfolio.co/submissions/tour-mysuru "Developed at DSC WOW")
+- 📫 Get to know about my hackathon projects : [Stud Eeze](https://devfolio.co/submissions/stud-eeze "Developed at HackSRM 3.0"), [Tour Mysuru](https://devfolio.co/submissions/tour-mysuru "Developed at DSC WOW")
 
 
 
