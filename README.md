@@ -6,8 +6,12 @@
 <a href="https://www.linkedin.com/in/vishnuvasan-srinivasan-0b2012194/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
+
 <a href="mailto:vishnuvasants@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.instagram.com/thz_iz_vishnuoff/">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br/>
