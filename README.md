@@ -13,6 +13,9 @@
 <a href="https://www.instagram.com/thz_iz_vishnuoff/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://stackoverflow.com/users/12139369/vishnuvasan">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
 
 <br/>
 
