@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on Android app development using Java
 
-- 🤔 I’m looking for help with Front-end
+- 🤔 I’m looking for help with Full stack
 
 - 💬 Ask me anything that is related to Java
 
