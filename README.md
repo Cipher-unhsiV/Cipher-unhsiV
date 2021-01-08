@@ -8,13 +8,13 @@
 
 - ⚡ I’m pursuing my UG at **Sri Venkateswara College of Engineering** --> _B.tech_ in _Artificial Intelligence and Data Science_ --> 1st year
 
-- 🌱 I’m currently learning - _Front end_
+- 🌱 I’m currently learning - _Front end dev_
 
 - 👯 I’m looking to collaborate on Android app development using Java
 
 - 🤔 I’m looking for help with Full stack
 
-- 💬 Ask me anything that is related to Java
+- 💬 Ask me anything that is related to Java, C/C++, Mdown
 
 - 📫 How to reach me: [Instagram](https://www.instagram.com/thz_iz_vishnuoff/ "Vishnu Profile"), [Twitter](https://twitter.com/Vishnuvasan8 "Vishnu Profile"), [LinkedIn](https://www.linkedin.com/in/vishnuvasan-srinivasan-0b2012194/ "Vishnu Profile")
 
