@@ -27,7 +27,7 @@
 
 <br/>
 
-- 🔭 I live in Chennai
+- 🔭 I'm living in Chennai
 
 - ⚡ I’m pursuing my UG at **Sri Venkateswara College of Engineering** --> _B.tech_ in _Artificial Intelligence and Data Science_ --> 1st year
 
