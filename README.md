@@ -33,7 +33,7 @@
 
 - 🌱 I’m currently learning - _Front end dev_
 
-- 👯 I’m looking to collaborate on Android app development using Java
+- 👯 I’m looking to collaborate in **front end development**
 
 - 🤔 I’m looking for help with Full stack
 
