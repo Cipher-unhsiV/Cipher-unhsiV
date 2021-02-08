@@ -1,7 +1,7 @@
 # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> there!!
 
 
-## Hre is my bio:-
+## Here is my bio:-
 <br/>
 
 
