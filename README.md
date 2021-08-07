@@ -32,7 +32,7 @@
 
 - ⚡ I’m pursuing my UG at **Sri Venkateswara College of Engineering** --> _B.tech_ in _Artificial Intelligence and Data Science_ --> 1st year
 
-- 🌱 I’m currently learning - _Front end dev_
+- 🌱 I’m currently learning - _Front end_
 
 - 👯 I’m looking to collaborate in **front end development**
 
