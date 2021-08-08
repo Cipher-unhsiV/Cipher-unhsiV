@@ -30,7 +30,7 @@
 
 - 🔭 I'm living in Chennai
 
-- ⚡ I’m pursuing my UG at **Sri Venkateswara College of Engineering** --> _B.tech_ in _Artificial Intelligence and Data Science_ --> 1st year
+- ⚡ I’m pursuing my UG at **Sri Venkateswara College of Engineering** --> _B.tech_ in _Artificial Intelligence and Data Science_ --> 2nd year
 
 - 🌱 I’m currently learning - _Front end and ANN_
 
