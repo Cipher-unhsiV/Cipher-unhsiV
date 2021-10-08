@@ -43,8 +43,8 @@
 - 📫 Get to know about my hackathon projects : [Stud Eeze](https://devfolio.co/submissions/stud-eeze "Developed at HackSRM 3.0"), [Tour Mysuru](https://devfolio.co/submissions/tour-mysuru "Developed at DSC WOW"), [Grazier](https://devfolio.co/submissions/grazier-c613 "Developed at HackMoL 2.0")
 <br/>
 
-![Vishnuvasan's github stats](https://github-readme-stats.vercel.app/api?username=Cipher-unhsiV&show_icons=true&hide_border=true)
-
+<!--![Vishnuvasan's github stats](https://github-readme-stats.vercel.app/api?username=Cipher-unhsiV&show_icons=true&hide_border=true) -->
+  ![Vishnuvasan's github stats](https://github-readme-stats.vercel.app/api?username=Cipher-unhsiV&show_icons=true_color=fff&theme=algolia)
 <br />
 
 
