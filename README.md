@@ -36,7 +36,7 @@
 
 - 👯 I’m looking to collaborate in **front end development and ANN**
 
-- 🤔 I’m looking for help with web functionality and HYP 
+- 🤔 I’m looking for help with _web functionality and HYP_ 
 
 - 💬 Ask me anything that is related to Java, C/C++, Mdown
  
