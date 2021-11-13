@@ -28,7 +28,7 @@
 <br/>
 
 
-- 🔭 I'm living in Chennai
+- 🔭 I'm a sport programmer, general purpose programmer, web developer and ANN enthusisast literally one among those who makes themselves always engaged in stuffs related to fav domains in and out with collaborations in few! 
 
 - ⚡ I’m pursuing my UG at **Sri Venkateswara College of Engineering** --> _B.tech_ in _Artificial Intelligence and Data Science_ --> 2nd year
 
