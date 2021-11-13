@@ -34,7 +34,7 @@
 
 - 🌱 I’m currently learning - _DL_
 
-- 👯 I’m looking to collaborate in **front end development**
+- 👯 I’m looking to collaborate in **front end development and ANN**
 
 - 🤔 I’m looking for help with Full stack
 
