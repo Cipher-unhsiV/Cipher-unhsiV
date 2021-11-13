@@ -38,7 +38,7 @@
 
 - 🤔 I’m looking for help with _web functionality and HYP_ 
 
-- 💬 Ask me anything that is related to Java, C/C++, Mdown
+- 💬 Ask me anything that is related to programming, web, hacks!
  
 - 📫 Get to know about my hackathon projects : [Stud Eeze](https://devfolio.co/submissions/stud-eeze "Developed at HackSRM 3.0"), [Tour Mysuru](https://devfolio.co/submissions/tour-mysuru "Developed at DSC WOW"), [Grazier](https://devfolio.co/submissions/grazier-c613 "Developed at HackMoL 2.0")
 <br/>
