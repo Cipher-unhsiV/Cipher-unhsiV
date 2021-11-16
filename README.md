@@ -30,13 +30,13 @@
 <br>
  <!--🔭--> I'm a sport programmer, general purpose programmer, web developer and ANN enthusisast literally one among those who makes    themselves always engaged in stuffs related to fav domains in and out with collaborations in few! 
 
-- ⚡ pursuing my UG at **Sri Venkateswara College of Engineering** --> _B.tech_ in _Artificial Intelligence and Data Science_ --> 2nd year
+- ⚡ Pursuing my UG at **Sri Venkateswara College of Engineering** --> _B.tech_ in _Artificial Intelligence and Data Science_ --> 2nd year
 
-- 🌱 currently learning - _DL_
+- 🌱 Currently learning - _DL_
 
-- 👯 looking to collaborate in **front end development and ANN**
+- 👯 Looking to collaborate in **front end development and ANN**
 
-- 🤔 looking for help with _web functionality and HYP_ 
+- 🤔 Looking for help with _web functionality and HYP_ 
 
 - 💬 Ask me anything that is related to programming, web, hacks!
  <!--
