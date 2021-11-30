@@ -46,8 +46,11 @@ To learn more about me, click [HERE](https://www.linkedin.com/in/cipher-unhsiv/ 
 <br/>-->
 
 <!--![Vishnuvasan's github stats](https://github-readme-stats.vercel.app/api?username=Cipher-unhsiV&show_icons=true&hide_border=true) -->
-  ![Vishnuvasan's github stats](https://github-readme-stats.vercel.app/api?username=Cipher-unhsiV&show_icons=true_color=fff&theme=algolia)
+ <!--![Vishnuvasan's github stats](https://github-readme-stats.vercel.app/api?username=Cipher-unhsiV&show_icons=true_color=fff&theme=algolia)-->
 <br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cipher-unhsiV&show_icons=true_color=fff&theme=algolia">
+</p>
 
 <img src="https://imgur.com/MXTW5Av.png"/>
 
