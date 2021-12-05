@@ -32,7 +32,7 @@
 
 - ⚡ Pursuing my UG at **Sri Venkateswara College of Engineering** --> _B.tech_ in _Artificial Intelligence and Data Science_ --> Sophomore
 
-- 🌱 Currently working in a _**REAL TIME PROJECT**_
+- 🌱 Currently working in a _**REAL TIME PROJECT**_ as an _Intern_
 
 - 👯 Looking to collaborate in **front end development and ANN**
 
