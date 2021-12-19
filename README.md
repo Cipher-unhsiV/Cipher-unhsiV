@@ -47,6 +47,12 @@ To learn more about me, click [HERE](https://www.linkedin.com/in/cipher-unhsiv/ 
 
 <!--![Vishnuvasan's github stats](https://github-readme-stats.vercel.app/api?username=Cipher-unhsiV&show_icons=true&hide_border=true) -->
  <!--![Vishnuvasan's github stats](https://github-readme-stats.vercel.app/api?username=Cipher-unhsiV&show_icons=true_color=fff&theme=algolia)-->
+<p align="center">
+  <a href="https://github.com/Cipher-unhsiV">
+    <img src="https://komarev.com/ghpvc/?username=Cipher-unhsiV" alt="page views" />
+  </a>
+</p>
+
 <br />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cipher-unhsiV&show_icons=true_color=fff&theme=algolia">
@@ -54,11 +60,7 @@ To learn more about me, click [HERE](https://www.linkedin.com/in/cipher-unhsiv/ 
 
 <img src="https://imgur.com/MXTW5Av.png"/>
 
-<p align="center">
-  <a href="https://github.com/Cipher-unhsiV">
-    <img src="https://komarev.com/ghpvc/?username=Cipher-unhsiV" alt="page views" />
-  </a>
-</p>
+
 <!--
 <img align="right" alt="GIF" src="./img/code.gif?raw=true" width="425" height="300" />-->
 
