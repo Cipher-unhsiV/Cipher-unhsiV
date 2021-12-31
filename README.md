@@ -40,7 +40,7 @@
 
 - 💬 Ask me anything that is related to programming, web, hacks!
 
-To learn more about me, log [Vishnuvasan T S](https://www.google.co.in/search?q=Vishnuvasan+T+S&sxsrf=AOaemvKR6CmP0H5UacuY9ZzvW9t4PhWrQw%3A1640925781897&source=hp&ei=VYrOYYmQNITv-Qab-5qQBw&iflsig=ALs-wAMAAAAAYc6YZVWiMkDwUxV6yBsA5DhDe3a7jyux&ved=0ahUKEwjJjtLynI31AhWEd94KHZu9BnIQ4dUDCAg&uact=5&oq=Vishnuvasan+T+S&gs_lcp=Cgdnd3Mtd2l6EAMyBwghEAoQoAE6BwgjEOoCECc6BwguEOoCECc6BAgjECc6CwguELEDEIMBEJECOgUIABCRAjoICAAQgAQQsQM6CAguEIAEELEDOgUILhCABDoICAAQsQMQkQI6CAgAELEDEIMBOggILhCxAxCRAjoECC4QQzoOCC4QgAQQsQMQxwEQ0QM6CwguEIAEELEDEIMBOgoILhCxAxCDARBDOggILhCxAxCDAToLCAAQgAQQsQMQgwE6BQgAEIAEOgoILhDHARCvARAKOgcIABCABBAKOgQIABAKOgQILhAKOgYIABANEB46CAgAEAgQDRAeUI4XWN89YOdCaAFwAHgAgAGEAYgB2QuSAQM3LjiYAQCgAQGwAQo&sclient=gws-wiz "Google Search") in your favourite search engine (Google) or web browser (Edge).
+To learn more about me, log [Vishnuvasan T S](https://bit.ly/vishnuvasan "Google Search") in your favourite search engine (Google) or web browser (Edge).
  <!--
 - 📫 Get to know about my projects : [Stud Eeze](https://devfolio.co/submissions/stud-eeze "Developed at HackSRM 3.0"), [Tour Mysuru](https://devfolio.co/submissions/tour-mysuru "Developed at DSC WOW"), [Grazier](https://devfolio.co/submissions/grazier-c613 "Developed at HackMoL 2.0")
 <br/>-->
