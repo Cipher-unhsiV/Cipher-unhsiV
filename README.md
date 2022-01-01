@@ -28,7 +28,7 @@
 <br/>
 
 <br>
- <!--🔭--> I'm a Competitive (Sport) programmer with 6+ years of experience in coding, Web developer and ANN enthusisast; literally one among those nightowls who  makes    themselves engaged in stuffs related to fav domains in and out with collaborations in few! 
+ <!--🔭--> I'm a Competitive (Sport) programmer with 6+ years of experience in coding, Web developer and ANN enthusisast; literally one among those night-owls who  makes    themselves engaged in stuffs related to fav domains in and out with collaborations in few! 
 
 - ⚡ Pursuing my UG at **Sri Venkateswara College of Engineering** --> _B.tech_ in _Artificial Intelligence and Data Science_ --> Sophomore
 
