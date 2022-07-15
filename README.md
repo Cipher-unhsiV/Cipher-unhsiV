@@ -36,7 +36,7 @@
 
 - 👯 Looking to collaborate in **ML/DL**
 
-- 🤔 Looking for help with _web functionality and HYP_ 
+- 🤔 Looking for help with _Dapps_ 
 
 - 💬 Ask me anything that is related to programming, web, hacks!
 
