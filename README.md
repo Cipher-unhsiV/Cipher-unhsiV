@@ -34,7 +34,7 @@
 
 - 🌱 Currently working on _**ICPC**_ _preperation_
 
-- 👯 Looking to collaborate in **front end development and ANN**
+- 👯 Looking to collaborate in **ML/DL**
 
 - 🤔 Looking for help with _web functionality and HYP_ 
 
