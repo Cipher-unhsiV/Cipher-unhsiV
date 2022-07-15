@@ -40,7 +40,7 @@
 
 - 💬 Ask me anything that is related to programming, web, hacks!
 
-To learn more about me, log [Vishnuvasan T S](https://bit.ly/vishnuvasan "Google Search") in your favourite search engine (Google).
+To learn more about me, log [Vishnuvasan T S](https://bit.ly/vishnuvasan "Google Search") in your favourite search engine (ex: Google).
  <!--
 - 📫 Get to know about my projects : [Stud Eeze](https://devfolio.co/submissions/stud-eeze "Developed at HackSRM 3.0"), [Tour Mysuru](https://devfolio.co/submissions/tour-mysuru "Developed at DSC WOW"), [Grazier](https://devfolio.co/submissions/grazier-c613 "Developed at HackMoL 2.0")
 <br/>-->
