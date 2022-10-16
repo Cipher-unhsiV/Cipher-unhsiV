@@ -38,7 +38,7 @@
 
 - 🤔 Looking for help with _Dapps_ 
 
-- 💬 Ask me anything that is related to programming, web, hacks!
+- 💬 Ask me anything that is related to programming, web!
 
 To learn more about me, log [Vishnuvasan T S](https://bit.ly/vishnuvasan "Google Search") in your favourite search engine (ex: Google).
  <!--
