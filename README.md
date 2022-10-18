@@ -1,9 +1,8 @@
 # Howdy! It's [Vishnuvasan Srinivasan](https://bit.ly/vishnuvasan "Google Search") here
+## (a.k.a) T S Vishnuvasan :man_student:
 
 <br/>
-
-<br>
- <!--🔭--> I'm a competitive programmer (a.k.a. sport coder) with 7+ years of experience in coding, low code web developer, ML/DL enthusiast and an aspirant of quantum computing; literally one among those night-owls who makes themselves engaged in stuffs related to ideal domains with collaborations in few! Typically saturated most of the times with the tech stack that I come across most often spending hours together grasping a better edge on the same, lastly obsessed with stuffs that matters to me the most and processing it my own way due to insane autodidactism I posses. 
+ I'm a **ML/DL enthusiast**, Low Code Web Developer, Quantum aspirant and Competitive Programmer (a.k.a. sport coder) with 7+ years of experience in coding; literally one among those night-owls who makes themselves engaged in stuffs related to ideal domains with collaborations in few! Typically saturated most of the times with the tech stack that I come across most often spending hours together grasping a better edge on the same, lastly obsessed with stuffs that matters to me the most and processing it my own way due to insane autodidactism I possess. 
 
 - ⚡ Pursuing my UG at **Sri Venkateswara College of Engineering** --> _B.tech_ in _Artificial Intelligence and Data Science_ --> Junior
 
