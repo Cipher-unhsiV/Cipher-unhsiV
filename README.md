@@ -2,42 +2,7 @@
 ## (a.k.a) T S Vishnuvasan :man_student:
 
 <br/>
- I'm a **ML/DL enthusiast**, Low Code Web Developer, Quantum aspirant and Competitive Programmer (a.k.a. sport coder) with 7+ years of experience in coding; literally one among those night-owls who makes themselves engaged in stuffs related to ideal domains with collaborations in few! Typically saturated most of the times with the tech stack that I come across most often spending hours together grasping a better edge on the same, lastly obsessed with stuffs that matters to me the most and processing it my own way due to insane autodidactism I possess. 
-
-- ⚡ Pursuing my UG at **Sri Venkateswara College of Engineering** --> _B.tech_ in _Artificial Intelligence and Data Science_ --> Junior
-
-- 🌱 Currently working on _**ICPC**_ _preperation_
-
-- 👯 Looking to collaborate in **ML/DL**
-
-- 🤔 Looking for help with _Dapps_ 
-
-- 💬 Ask me anything that is related to programming, web!
-
-To learn more about me, log [Vishnuvasan T S](https://bit.ly/vishnuvasan "Google Search") in your favourite search engine (ex: Google).
- <!--
-- 📫 Get to know about my projects : [Stud Eeze](https://devfolio.co/submissions/stud-eeze "Developed at HackSRM 3.0"), [Tour Mysuru](https://devfolio.co/submissions/tour-mysuru "Developed at DSC WOW"), [Grazier](https://devfolio.co/submissions/grazier-c613 "Developed at HackMoL 2.0")
-<br/>-->
-
-<!--![Vishnuvasan's github stats](https://github-readme-stats.vercel.app/api?username=Cipher-unhsiV&show_icons=true&hide_border=true) -->
- <!--![Vishnuvasan's github stats](https://github-readme-stats.vercel.app/api?username=Cipher-unhsiV&show_icons=true_color=fff&theme=algolia)-->
-
-
-<br />
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cipher-unhsiV&show_icons=true_color=fff&theme=algolia">
-</p>
-<p align="center">
-  <a href="https://github.com/Cipher-unhsiV">
-    <img src="https://komarev.com/ghpvc/?username=Cipher-unhsiV" alt="page views" />
-  </a>
-</p>
-<img src="https://imgur.com/MXTW5Av.png"/>
-
-
-<!--
-<img align="right" alt="GIF" src="./img/code.gif?raw=true" width="425" height="300" />-->
-
+ I'm a ML/DL enthusiast, Low Code Web Developer, Quantum aspirant and Competitive Programmer (a.k.a. sport coder) with 7+ years of experience in coding; literally one among those night-owls who makes themselves engaged in stuffs related to ideal domains with collaborations in few! Typically saturated most of the times with the tech stack that I come across most often spending hours together grasping a better edge on the same, lastly obsessed with stuffs that matters to me the most and processing it my own way due to insane autodidactism I possess. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thz_iz_vishnuoff) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cipher-unhsiv) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/cipherunhsiv) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/cipher-unhsiv_18) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12139369) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/cipherunhsiv) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Cipher_unhsiV) 
@@ -54,4 +19,10 @@ To learn more about me, log [Vishnuvasan T S](https://bit.ly/vishnuvasan "Google
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Cipher-unhsiV&icon=2&color=5)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://github.com/Cipher-unhsiV">
+    <img src="https://komarev.com/ghpvc/?username=Cipher-unhsiV" alt="page views" />
+  </a>
+</p>
+<img src="https://imgur.com/MXTW5Av.png"/>
 
