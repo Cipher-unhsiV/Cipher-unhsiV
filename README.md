@@ -18,8 +18,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=Cipher-unhsiV&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-<!--
-[![](https://visitcount.itsvg.in/api?id=Cipher-unhsiV&icon=2&color=5)](https://visitcount.itsvg.in)-->
+
+[![](https://visitcount.itsvg.in/api?id=Cipher-unhsiV&icon=2&color=5)](https://visitcount.itsvg.in)
 <p align="center">
   <a href="https://github.com/Cipher-unhsiV">
     <img src="https://komarev.com/ghpvc/?username=Cipher-unhsiV" alt="page views" />
