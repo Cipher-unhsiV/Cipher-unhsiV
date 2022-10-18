@@ -1,30 +1,5 @@
 # Hi there!
 
-<!--
-## Here is my bio:--->
-<br/>
-
-
-
-<a href="https://www.linkedin.com/in/cipher-unhsiv">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-
-<a href="mailto:vishnuvasants@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-</a>
-
-<a href="https://www.instagram.com/thz_iz_vishnuoff/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<a href="https://stackoverflow.com/users/12139369/vishnuvasan">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-</a>
-<a href="https://twitter.com/Cipher_unhsiV">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"  />
-</a>
-
 <br/>
 
 <br>
