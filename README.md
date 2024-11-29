@@ -1,7 +1,7 @@
 <!--# Howdy! It's [Vishnuvasan Srinivasan](https://bit.ly/vishnuvasan "Google Search") here-->
-<h1>Howdy! It's <a href="https://vishnuvasan.netlify.app/" target="_blank">Vishnuvasan Srinivasan</a> here</h1>
+<h1>Howdy! It's <a href="https://vishnuvasan.netlify.app/" target="_blank">Vishnu</a> here 😎</h1>
 
-## (a.k.a) T S Vishnuvasan :man_student: - :man_technologist: cipher-unhsiv
+## (a.k.a) Vishnuvasan T S :man_student: - :man_technologist: cipher-unhsiv
 
 <br/>
  I'm a ML/DL enthusiast, Low Code Web Developer, Quantum aspirant and Competitive Programmer (a.k.a. sport coder) with 7+ years of experience in coding; literally one among those night-owls who makes themselves engaged in stuffs related to ideal domains with collaborations in few! Typically saturated most of the times with the tech stack that I come across most often spending hours together grasping a better edge on the same, lastly obsessed with stuffs that matters to me the most and processing it my own way due to insane autodidactism I possess. 
