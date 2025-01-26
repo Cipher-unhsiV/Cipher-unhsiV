@@ -3,8 +3,9 @@
 
 ## (a.k.a) Vishnuvasan T S :man_student: - :man_technologist: cipher-unhsiv
 
-<br/>
- I am a recent AI graduate who’s passionate about Artificial Intelligence and Machine Learning. I spend most of my time diving deep into technologies, refining my skills, and learning things that matter to me in my own way—thanks to the autodidactic spirit I carry. I’ve worked on projects involving real-time image processing, evaluation engines, and web development, and I’ve also contributed to research, including publishing a Medical AI paper in IEEE. Always curious and eager to collaborate, I enjoy building solutions that make a real impact.
+### AI Enthusiast | Researcher
+
+ I am a recent AI graduate who’s passionate about Artificial Intelligence and Machine Learning. I spend most of my time diving deep into technologies, refining my skills, and learning things that matter to me in my own way—thanks to the autodidactic spirit I carry. I’ve worked on projects involving real-time image processing, evaluation engines, and frontier LLMs, and I’ve also contributed to research, including publishing a Medical AI paper in IEEE. Always curious and eager to collaborate, I enjoy building solutions that make a real impact.
 
 ## 🌐 Socials:
  
@@ -31,5 +32,9 @@
     <img src="https://visitcount.itsvg.in/api?id=Cipher-unhsiV&icon=2&color=5" alt="page views" />
   </a>
 </p>-->
+<strong>
+<p align="center">"AI is not just a tool; it’s the new frontier of innovation."</p>
+<p align="center">✨ Let’s connect and create together! ✨</p>
+</strong>
 <img src="https://imgur.com/MXTW5Av.png"/>
 
