@@ -1,4 +1,6 @@
 <!--# Howdy! It's [Vishnuvasan Srinivasan](https://bit.ly/vishnuvasan "Google Search") here-->
+[![GitHub followers](https://img.shields.io/github/followers/Cipher-unhsiV?label=%40Cipher-unhsiV&style=social)](https://github.com/Cipher-unhsiV)
+
 <h1>Howdy! It's <a href="https://vishnuvasan.netlify.app/" target="_blank">Vishnu</a> here 😎</h1>
 
 ## (a.k.a) Vishnuvasan T S :man_student: - :man_technologist: cipher-unhsiv
